@@ -1,0 +1,5 @@
+Name: Quick View Object
+Description: Shortcut to View() function
+Binding: quickViewObj
+Interactive: false
+
